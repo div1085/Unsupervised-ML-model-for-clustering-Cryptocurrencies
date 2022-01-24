@@ -22,7 +22,7 @@ K-means algorithm is used to cluster the cryptocurrencies using the PCA data. An
 
 
 #### Visualizing Cryptocurrencies Results:
-Scatter plot with axis as with x= Total Coins Mined, y= Total Coin Supply, and z= Class is created to view the data clusters:
+Scatter plot with axis as with x= Total Coins Mined, y= Total Coin Supply, labled by Class, is created to view the data clusters:
 
 ![Visualizing Cryptocurrencies Results](https://github.com/div1085/Cryptocurrencies/blob/7634acb2407de0045c9e1837f5953634338e9dfb/Resources/bokeh_plot.png)
 
